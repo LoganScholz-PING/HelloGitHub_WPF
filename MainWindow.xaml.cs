@@ -22,6 +22,7 @@ namespace HelloGitHub_WPF
     {
         public MainWindow()
         {
+            // Hello this is a change
             InitializeComponent();
         }
     }
