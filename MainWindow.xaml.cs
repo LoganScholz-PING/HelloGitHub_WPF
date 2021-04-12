@@ -24,5 +24,10 @@ namespace HelloGitHub_WPF
         {
             InitializeComponent();
         }
+
+        private void submitButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
